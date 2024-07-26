@@ -1,0 +1,84 @@
+header{
+    background-color: rgb(83, 214, 234);
+    width: 100%;
+    position: fixed;
+    left: 0;
+    top: 0;
+    
+}
+h1{
+    display: inline;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 2px;
+}
+nav ol{
+    display: inline;
+}
+nav ol li {
+    display: inline;
+    margin: 10px;
+    font-size: x-large;
+}
+nav ol li a{
+    text-decoration: none;
+    display: inline;
+    color: white; 
+}
+nav ol li a:hover{
+    color: blue;
+}
+main{
+    margin-top:65px;
+}
+
+p{
+    font-size: x-large;
+    max-width: 600px;
+    letter-spacing: 0.5px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer{
+    background-color: rgb(83, 214, 234);
+    width: 100%;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    
+   
+}
+
+footer article{
+    display: inline-block;
+    
+}
+
+footer article ol{
+
+}
+
+footer article ol li{
+    display: inline;
+}
+
+footer article ol li button{
+    color: white;
+    background-color: black;
+    padding: 4px;
+    animation-duration: 2s;
+    
+}
+
+footer article ol li button:hover{
+    color: black;
+    background-color: white;
+    vertical-align: 4px;
+    
+}
+footer article p strong:hover{
+    font-size: larger;
+    color: aliceblue;
+}
+
+
+
